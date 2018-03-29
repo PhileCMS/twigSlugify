@@ -1,3 +1,5 @@
+**Note:** This repository is abandonded. Use https://github.com/PhileCMS/phileTwigFilters instead.
+
 twigSlugify
 ===========
 
